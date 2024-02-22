@@ -11,7 +11,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 |------|---------------------------------------------|--------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/orianou |
 | 1    | Github Profile Page Updated                 | https://github.com/orianou/orianou |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr` |
+| 1    | Commit and Push Change from Command Line    | https://github.com/orianou/practical-programming-in-chemistry-milestones/commit/94afa492dc58a9a7bc9315c5678926598d81120b |
 | 1    | Create a New Branch                           | https://github.com/orianou/practical-programming-in-chemistry-milestones/tree/branch1) |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml` |
 | 1    | Fork a Repo                                 | https://github.com/orianou/Milestones |
